@@ -1,0 +1,15 @@
+{
+  "name": "black",
+  "version": "1.0.0",
+  "description": "Using inspiration for grafical design to make a website for my portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josephine Een",
+  "license": "ISC",
+  "dependencies": {
+    "mediaelement": "^4.2.9",
+    "normalize.css": "^8.0.1"
+  }
+}
